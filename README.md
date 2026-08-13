@@ -2,6 +2,10 @@
 
 > **Real-Time Cryptocurrency Market Visualization for Desktop**
 
+
+<img width="1012" height="741" alt="Screenshot from 2026-08-13 20-14-08" src="https://github.com/user-attachments/assets/cc83d684-a843-4560-9173-efb3f46860d8" />
+
+
 Crypto Heatmap is a lightweight, modular, and modern desktop application built with **Python** and **CustomTkinter**. It provides a real-time visual overview of cryptocurrency market performance through an interactive **TreeMap grid**, making it easy to identify market movements at a glance.
 
 The application is designed with a modular plugin architecture, allowing cryptocurrencies and other supported assets to be added, removed, or managed independently.
